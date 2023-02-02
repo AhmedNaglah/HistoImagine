@@ -1,0 +1,21 @@
+{
+  "SegmentWSI": {
+    "type"    : "python"
+  },
+
+  "TrainNetwork": {
+    "type"    : "python"
+  },
+
+  "ExportAperioXML": {
+    "type"    : "python"
+  },
+
+  "IngestAperioXML": {
+    "type"    : "python"
+  },
+
+  "ExtractFeaturesFromAnnotations": {
+    "type"    : "python"
+  }
+}
