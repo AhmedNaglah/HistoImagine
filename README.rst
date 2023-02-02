@@ -4,7 +4,7 @@ HistoImagine
 
 HistoImagine is a tool for image-to-image translation to generate virtual histology images.
 
-.. image:: https://github.com/inaglah/ahmednaglah/poster.PNG
+.. image:: https://github.com/inaglah/poster.PNG
   :width: 800
   :alt: Cloud interface figure
 
